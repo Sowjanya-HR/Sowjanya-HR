@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on [Software_Testing_using_selenium-python](https://github.com/CHIRANJEEVICHETAN/Software_Testing_using_selenium-python)
 
-- 🌱 I’m currently learning **Python with Django, MERN stack, DSA with C++, AngularJS, AI & ML with python, PHP**
-
 - 👯 I’m looking to collaborate on [Artificial Intelligence & Machine Learning (Image Processing)](yet_to_start)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sowjanya-HR](https://github.com/Sowjanya-HR)
 
-- 💬 Ask me about **HTML, CSS, Javascript, C Lang, C++, Python, JAVA, Django**
+- 💬 Ask me about **HTML, CSS, Javascript, ReactNative, React js, Next js**
 
 - 📫 How to reach me **sonuradha988@gmail.com**
 
